@@ -1,0 +1,27 @@
+#toggle{
+    
+    cursor: pointer;
+}
+
+.strength{
+    width: 25%;
+    display: inline-block;
+    height: 100%;
+}
+  
+#strength-bar{
+    background-color: #dcdcdc;
+    height: 18px;
+}
+
+
+/* 
+.card-footer{
+  pointer-events: none;
+  border-top: 2px solid #ddd;
+}
+
+.form-check-input{
+  border: 2px solid rgba(7, 38, 119, 0.68);
+} */
+
